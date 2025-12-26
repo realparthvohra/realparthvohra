@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**realparthvohra/realparthvohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Parth Vohra** , an 18-year-old focused on building strong foundations in Machine Learning.
 
-Here are some ideas to get you started:
+Starting from mathematics and implementing concepts from scratch in code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Current Focus
+
+  Probability , statistics , Linear Algebra & Calculus for ML
+
+  Implementing ML concepts from scratch
+
+  Building AI-driven systems alongside learning
+
+I believe in learning deeply, building publicly, and letting results speak louder than words.
